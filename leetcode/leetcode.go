@@ -1,3 +1,4 @@
+//https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/solution/116-tian-chong-mei-ge-jie-dian-de-xia-yi-ge-you-32/
 package main
 
 import (
